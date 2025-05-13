@@ -1,0 +1,10 @@
+{
+	"packageManager": "pnpm@10.11.0",
+	"homepage": "",
+	"scripts": {
+		"will-show-warning": "node --trace-deprecation \"$(which pnpm)\" install"
+	},
+	"dependencies": {
+		"@types/node": "22.15.17"
+	}
+}
